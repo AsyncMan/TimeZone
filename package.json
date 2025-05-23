@@ -1,0 +1,16 @@
+{
+  "name": "daytime",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "micromodal": "^0.6.1"
+  }
+}
